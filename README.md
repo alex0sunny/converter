@@ -1,2 +1,2 @@
 # converter
-convert *.siv to segy/miniseed/bin/txt
+convert files in *.siv internal format to segy/miniseed/bin/txt
